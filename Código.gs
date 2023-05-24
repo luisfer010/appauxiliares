@@ -1,7 +1,7 @@
 /* 
 ----------------------------------------------Gestion de Auxiliares-----------------------------------------------------------
 */
- 
+
 function LimpiarAuxiliar() {
   //guardamos en la variable la hoja de calculo activa 
   var hojaActiva = SpreadsheetApp.getActiveSpreadsheet();
